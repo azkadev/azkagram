@@ -2,7 +2,7 @@
 
 Telegram Pihak 3 / Unnofficial Dengan design baru
 
-Hanya tersedia di android platform lain nunggu 
+Hanya tersedia di android platform lain nunggu, hanya untuk user high end untuk low end (suka bullying, bokep, toxic dll gk bisa pakai)
 
 [Download](https://github.com/azkadev/azkagram/releases/download/latest/app-release.apk)
 
