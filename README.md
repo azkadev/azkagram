@@ -1,11 +1,14 @@
-# Azkagram
+IyBBemthZ3JhbQoKVGVsZWdyYW0gUGloYWsgMyAvIFVubm9mZmljaWFsIERl
+bmdhbiBkZXNpZ24gYmFydQoKSGFueWEgdGVyc2VkaWEgZGkgYW5kcm9pZCBw
+bGF0Zm9ybSBsYWluIG51bmdndSwgaGFueWEgdW50dWsgdXNlciBoaWdoIGVu
+ZCB1bnR1ayBsb3cgZW5kIChzdWthIGJ1bGx5aW5nLCBib2tlcCwgdG94aWMg
+ZGxsIGdrIGJpc2EgcGFrYWkpCgpbRG93bmxvYWRdKGh0dHBzOi8vZ2l0aHVi
+LmNvbS9hemthZGV2L2F6a2FncmFtL3JlbGVhc2VzL2Rvd25sb2FkL2xhdGVz
+dC9hcHAtcmVsZWFzZS5hcGspCgogIAoKICFbcGhvdG9fMjAyNC0wMS0yMF8w
+Ni0yMC0wNV0oaHR0cHM6Ly9naXRodWIuY29tL2F6a2FkZXYvYXprYWdyYW0v
+YXNzZXRzLzgyNTEzNTAyLzk2NGEzMGY0LTA1NzAtNDNjZC1hZTFhLTJlZGNi
+ZmEzMmJiNSkK
 
-Telegram Pihak 3 / Unnofficial Dengan design baru
-
-Hanya tersedia di android platform lain nunggu, hanya untuk user high end untuk low end (suka bullying, bokep, toxic dll gk bisa pakai)
-
-[Download](https://github.com/azkadev/azkagram/releases/download/latest/app-release.apk)
-
-  
-
- ![photo_2024-01-20_06-20-05](https://github.com/azkadev/azkagram/assets/82513502/964a30f4-0570-43cd-ae1a-2edcbfa32bb5)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
